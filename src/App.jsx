@@ -14,7 +14,7 @@ const QuotePage = () => {
   };
   return (
     <div>
-      <h2>随机名言页 💡</h2>
+      <h2>随机名人名言页 💡</h2>
       <p>{quote}</p>
       <button onClick={fetchQuote}>换一句</button>
     </div>
